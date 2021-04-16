@@ -13,3 +13,8 @@ Name- Dillon Morris ID- 816006550
 >This website was built on the portfoliolite theme within the "app>public>wp-content>themes>portfoliolite" directory. All coding was done within this directory. 
 >Live Website Link: https://dev-noted.pantheonsite.io/     [copy and paste link into your Web Browser]
 >The Website is being hosted by a free web hosting platform domain named: "Pantheon.io"
+
+
+Website URL - https://dev-noted.pantheonsite.io/
+
+Youtube Presentation Link - https://www.youtube.com/watch?v=MIEoTUsjgQE
